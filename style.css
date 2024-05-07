@@ -1,0 +1,58 @@
+.bgblue {
+   background-color: #DCF2F1; 
+   
+}
+.pandu{
+    font-size: 4rem;
+    font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.programmer {
+    font-size: 2rem;
+    font-family: "Jaro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+hr {
+    border: dotted #7FC7D9 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.skill {
+    color: #7FC7D9;
+    font-size: 1.5rem;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+   
+}
+.img-profile{
+    border-radius: 50%;
+}
+.hello{
+    color: #7FC7D9;
+}
+.serif{
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #31363F;
+}
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+.bottom-container > div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+@media (max-width:530px){
+    img.respon{
+        width: 100%;
+        height: 100%;
+    }
+}
